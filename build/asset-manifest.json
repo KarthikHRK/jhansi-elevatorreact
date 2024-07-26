@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80c968ae.css",
+    "main.js": "/static/js/main.63f2afe9.js",
+    "static/js/453.a8dbe7e2.chunk.js": "/static/js/453.a8dbe7e2.chunk.js",
+    "static/media/suraksha.jpg": "/static/media/suraksha.57386d44b7df20bbde80.jpg",
+    "static/media/about.jpg": "/static/media/about.bfd9357c0d98f97b5fa8.jpg",
+    "static/media/achuta.jpg": "/static/media/achuta.cb3c00a0d503a8f0fce4.jpg",
+    "static/media/p2.jpeg": "/static/media/p2.6a94b4387478327b685f.jpeg",
+    "static/media/homeysmart.jpg": "/static/media/homeysmart.6b6ee26a0a6aa389ea5a.jpg",
+    "static/media/p3.jpeg": "/static/media/p3.5673a763e0785dc11b1f.jpeg",
+    "static/media/logo.png": "/static/media/logo.591a3803bef704997402.png",
+    "static/media/vission.jpg": "/static/media/vission.9d8407c1296611f66ad0.jpg",
+    "static/media/p6.jpeg": "/static/media/p6.74766c93ea4b4962c1b8.jpeg",
+    "static/media/about.jpeg": "/static/media/about.ac5ece0306c169d0244e.jpeg",
+    "static/media/p1.jpeg": "/static/media/p1.44ea5fb1ea596fa56b71.jpeg",
+    "static/media/about3.jpeg": "/static/media/about3.47d275eb199bac410773.jpeg",
+    "static/media/p4.jpeg": "/static/media/p4.d3bf99707218806a8bc5.jpeg",
+    "static/media/p5.jpeg": "/static/media/p5.2953e7bbac582414c271.jpeg",
+    "static/media/safty.jpg": "/static/media/safty.5a38fa952dceab2cf5e5.jpg",
+    "static/media/5.png": "/static/media/5.5e34930749af0ea9de73.png",
+    "static/media/electraexpert.jpg": "/static/media/electraexpert.0d4cbd51575b260d3c2e.jpg",
+    "static/media/homeyplus.jpg": "/static/media/homeyplus.5fb62db436f69f568125.jpg",
+    "static/media/abb.jpg": "/static/media/abb.1e62e9924142f9e1b4da.jpg",
+    "static/media/4.jpg": "/static/media/4.871062dfdce91084248f.jpg",
+    "static/media/electra.webp": "/static/media/electra.b32bb6875475410bd92d.webp",
+    "static/media/6.png": "/static/media/6.d2e6ee2e57a5840cad0b.png",
+    "static/media/3.png": "/static/media/3.5914929dfe4ec0fad7ec.png",
+    "static/media/virat.webp": "/static/media/virat.1a86589f5a631af9c845.webp",
+    "index.html": "/index.html",
+    "main.80c968ae.css.map": "/static/css/main.80c968ae.css.map",
+    "main.63f2afe9.js.map": "/static/js/main.63f2afe9.js.map",
+    "453.a8dbe7e2.chunk.js.map": "/static/js/453.a8dbe7e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c968ae.css",
+    "static/js/main.63f2afe9.js"
+  ]
+}
